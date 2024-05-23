@@ -1,11 +1,10 @@
 <h1 align="center">Hello!, I'm Luis Kendall <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1> 
-<p align="center">Young professional software engineer from Costa Rica</p>
+<h3 align="center">Young professional software engineer from Costa Rica</h3>
 
-### Hobbies:
-- Play video games 🎮
--    Play basketball <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW95bW45OGF3eXpzajRqcXd3dTYybzl1MjF2OWJndjE5bnVjZjIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8x26UijMeN8ME/giphy.gif" width="35" align="center">
-- Watch streams and Youtube videos
-- Drink coffee
+### About me:
+- Gratuated from <a href="https://ufidelitas.ac.cr/">*Universidad Fidélitas*</a> in **Bacherlor's Degree in Computer System Engineering** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- Always learning new technologies and skills 
+- **Hobbies:** Play video games, Play basketball<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW95bW45OGF3eXpzajRqcXd3dTYybzl1MjF2OWJndjE5bnVjZjIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8x26UijMeN8ME/giphy.gif" width="35" align="center">, Watch streams and YouTube videos, Drink coffee
 
 <a href="https://www.animatedimages.org/cat-dividing-lines-134.htm"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0133.gif" width="100%" height="3px" border="0" alt="animated-dividing-line-image-0133" /></a>
 <div>
