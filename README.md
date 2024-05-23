@@ -10,14 +10,15 @@
 <div>
   <h3 align="left">Connect with me:</h3>
   <p align="left" style="display: flex; align-items: center;">
-    <a href="https://linkedin.com/in/luis-kendall-segura-paniagua/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <a href="https://linkedin.com/in/luis-kendall-segura-paniagua/" target="_blank" style="display: flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://github.com/luiskendall" target="_blank" style="margin-left: 10px;">
       <img src="https://img.shields.io/github/followers/luiskendall?style=social&logo=github&logoColor=black&logoSize=auto&label=Follow%20me&link=https%3A%2F%2Fgithub.com%2Fluiskendall" alt="GitHub Followers">
     </a>
   </p>
 </div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
