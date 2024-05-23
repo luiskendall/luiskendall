@@ -1,5 +1,5 @@
-<h1 align="center">Hi!, I'm Luis Kendall <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1> 
-<p align="left">I’m young professional software engineer from Costa Rica. I have worked with different technologies and programming languages, and I also have knowledge and experience in other software areas such as databases, networks, mobile Apps, VM, technical support, among others.</p>
+<h1 align="center">Hello!, I'm Luis Kendall <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1> 
+<p align="center">Young professional software engineer from Costa Rica</p>
 
 ### Hobbies:
 - Play video games 🎮
@@ -17,7 +17,7 @@
 </div>
 <a href="https://www.animatedimages.org/cat-dividing-lines-134.htm"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0133.gif" width="100%" height="3px" border="0" alt="animated-dividing-line-image-0133" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies & Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
@@ -46,7 +46,7 @@
 
 <a href="https://www.animatedimages.org/cat-dividing-lines-134.htm"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0133.gif" width="100%" height="3px" border="0" alt="animated-dividing-line-image-0133" /></a>
 <h3 align="left">GitHub Stats</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiskendall&hide_progress=true&theme=ayu-mirage&hide_border=true" alt=luiskendall />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=luiskendall&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true" alt="luiskendall" /></p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=luiskendall&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true" alt="luiskendall" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiskendall&hide_progress=true&theme=ayu-mirage&hide_border=true" alt=luiskendall />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luiskendall&theme=ayu-mirage&hide_border=true" alt="luiskendall" /></p>
 
