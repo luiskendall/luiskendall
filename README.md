@@ -1,4 +1,4 @@
-<h1 align="left">Hi!, I'm Luis Kendall👋 </h1>
+<h1 align="left">Hi!, I'm Luis Kendall <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1> 
 <p align="left">I’m young professional software engineer from Costa Rica. I have worked with different technologies and programming languages, and I also have knowledge and experience in other software areas such as databases, networks, mobile Apps, VM, technical support, among others.</p>
 
 ### Hobbies:
@@ -18,6 +18,7 @@
     </a>
   </p>
 </div>
+
 
 
 
