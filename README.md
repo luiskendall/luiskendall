@@ -1,12 +1,13 @@
-<h1 align="left">Hi!, I'm Luis Kendall <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1> 
+<h1 align="center">Hi!, I'm Luis Kendall <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1> 
 <p align="left">I’m young professional software engineer from Costa Rica. I have worked with different technologies and programming languages, and I also have knowledge and experience in other software areas such as databases, networks, mobile Apps, VM, technical support, among others.</p>
 
 ### Hobbies:
 - Play video games 🎮
-- Play basketball <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW95bW45OGF3eXpzajRqcXd3dTYybzl1MjF2OWJndjE5bnVjZjIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8x26UijMeN8ME/giphy.gif" width="25">
+-    Play basketball <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW95bW45OGF3eXpzajRqcXd3dTYybzl1MjF2OWJndjE5bnVjZjIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8x26UijMeN8ME/giphy.gif" width="35" align="center">
 - Watch streams and Youtube videos
 - Drink coffee
 
+<a href="https://www.animatedimages.org/cat-dividing-lines-134.htm"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0133.gif" width="100%" height="3px" border="0" alt="animated-dividing-line-image-0133" /></a>
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center;">
@@ -14,6 +15,7 @@
 <a href="https://github.com/luiskendall" target="_blank" style="margin-left: 10px;"><img src="https://img.shields.io/github/followers/luiskendall?style=social&logo=github&logoColor=black&logoSize=auto&label=Follow%20me&link=https%3A%2F%2Fgithub.com%2Fluiskendall" alt="GitHub Followers"></a>
 </p>
 </div>
+<a href="https://www.animatedimages.org/cat-dividing-lines-134.htm"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0133.gif" width="100%" height="3px" border="0" alt="animated-dividing-line-image-0133" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,12 +41,12 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/>
 </p>
 
+<a href="https://www.animatedimages.org/cat-dividing-lines-134.htm"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0133.gif" width="100%" height="3px" border="0" alt="animated-dividing-line-image-0133" /></a>
 <h3 align="left">GitHub Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiskendall&hide_progress=true&theme=ayu-mirage&hide_border=true" alt=luiskendall />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=luiskendall&show_icons=true&locale=en&theme=ayu-mirage&hide_border=true" alt="luiskendall" /></p>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luiskendall&theme=ayu-mirage&hide_border=true" alt="luiskendall" /></p>
 
