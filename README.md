@@ -5,7 +5,7 @@
 ### About me:
 - Graduated from <a href="https://ufidelitas.ac.cr/">*Universidad Fidélitas*</a> in **Bachelor's Degree in Computer System Engineering** <img src="https://i.giphy.com/dBrXAuiJQpBTgFhHFH.webp" width="30" align="center">
 - Always learning new technologies and skills 
-- ***Hobbies:*** Play videogames, play basketball<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW95bW45OGF3eXpzajRqcXd3dTYybzl1MjF2OWJndjE5bnVjZjIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8x26UijMeN8ME/giphy.gif" width="40" align="center">, Watch streams and YouTube videos, PC Building, Drink coffee<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wwbW1hN29sZXM1NWd1NzhiYjQ5Z2liMTh3eXd4bnhvY3VucGl0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x54hCRvkHVSyETSWCi/giphy.gif" width="35" align="absbottom"> 
+- ***Hobbies:*** Play videogames, play basketball<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW95bW45OGF3eXpzajRqcXd3dTYybzl1MjF2OWJndjE5bnVjZjIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8x26UijMeN8ME/giphy.gif" width="40" align="center">, Watch streams and YouTube videos, PC Building, Drink coffee<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1tNnlzc3NlMnF4c2gxdmk2cHlqbnBrZXQ1N3VzejV5Z2dkOTdjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bWaI6WlFnCznThFWux/giphy.gif" width="35" align="absbottom"> 
 
 
 <a href="https://www.animatedimages.org/cat-dividing-lines-134.htm"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0133.gif" width="100%" height="3px" border="0" alt="animated-dividing-line-image-0133" /></a>
