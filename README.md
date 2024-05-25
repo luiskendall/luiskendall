@@ -23,9 +23,8 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVlMXF4azlwY21kcHNsa2JmOTVwbWl
 <h3 align="left">Technologies & Tools:</h3>
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,jquery,php,py,bootstrap,css,html,mongodb,mysql,firebase,androidstudio,flutter,dotnet,figma,postman,git,github,xd,powershell,anaconda,bitbucket,visualstudio,vscode&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,jquery,php,py,bootstrap,css,html,mongodb,mysql,firebase,androidstudio,flutter,dotnet,figma,postman,git,github,xd,powershell,anaconda,bitbucket,visualstudio,vscode&theme=dark)
 </p>
-
 
 
 
