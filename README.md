@@ -1,5 +1,5 @@
 <h1 align="center">Hello!, I'm Luis Kendall <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></h1> 
-<h3 align="center" style="color:#f9a325;"><em>Young professional Software Engineer from Costa Rica 🇨🇷</em></h3>
+<h3 align="center" style="color:#f9a325;"><em>Young professional Software Engineer from Costa Rica</em></h3> 
 <img src="https://github.com/luiskendall/luiskendall/blob/eeff3f62630cc3f79bdf987276f5218276d7db74/assets/img/line.png" width="100%" height="30px" border="0" alt="divider-line" />
 
 ### About me:
