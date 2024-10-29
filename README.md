@@ -14,7 +14,7 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVlMXF4azlwY21kcHNsa2JmOTVwbWl
 <div>
 <h3 align="left">Connect with me <img src="https://github.com/luiskendall/luiskendall/blob/1d8ce4e73f1394a7e5d0f2d345d1f6fc4767dc8e/assets/img/Handshake.gif" width="70" align="center">:</h3>
 <p align="left" style="display: flex; align-items: center;">
-<a href="https://linkedin.com/in/luis-kendall-segura-paniagua/" target="blank" style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luiskensp/" target="blank" style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/luiskendall" target="_blank" style="margin-left: 10px;"><img src="https://img.shields.io/github/followers/luiskendall?style=social&logo=github&logoColor=black&logoSize=auto&label=Follow%20me&link=https%3A%2F%2Fgithub.com%2Fluiskendall" alt="GitHub Followers"></a>&nbsp;
 <a href="http://luiskendall.github.io/portfolio/" target="_blank"><img src="https://media-public.canva.com/MADrPCX1BOQ/1/thumbnail.png" height="30" alt="Portfolio"></a>
 </p>
