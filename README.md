@@ -1,9 +1,9 @@
 <h1 align="center">Hello!, I'm Luis Kendall <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></h1> 
-<h3 align="center" style="color:#f9a325;"><em>Young professional Software Engineer from Costa Rica</em></h3> 
+<h3 align="center" style="color:#f9a325;"><em>Software Engineer from Costa Rica</em></h3> 
 <img src="https://github.com/luiskendall/luiskendall/blob/eeff3f62630cc3f79bdf987276f5218276d7db74/assets/img/line.png" width="100%" height="30px" border="0" alt="divider-line" />
 
 ### About me:
-- <img src="https://i.giphy.com/dBrXAuiJQpBTgFhHFH.webp" width="30" align="center"> Graduated from <a href="https://ufidelitas.ac.cr/">*Universidad Fidélitas*</a> in **Bachelor's Degree in Computer System Engineering** 
+- <img src="https://i.giphy.com/dBrXAuiJQpBTgFhHFH.webp" width="30" align="center"> Graduated from <a href="https://ufidelitas.ac.cr/">*Universidad Fidélitas*</a> as the **Best GPA** in **Bachelor's Degree in Computer System Engineering** 
 - 🚀 Always looking to learn new knowledge and technologies to improve my skills 
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW95bW45OGF3eXpzajRqcXd3dTYybzl1MjF2OWJndjE5bnVjZjIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8x26UijMeN8ME/giphy.gif" width="40" align="center">***Hobbies:*** Play videogames, play basketball, Watch streams and YouTube videos, PC Building, Drink coffee<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1tNnlzc3NlMnF4c2gxdmk2cHlqbnBrZXQ1N3VzejV5Z2dkOTdjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bWaI6WlFnCznThFWux/giphy.gif" width="35" align="absbottom"> 
 <!--
